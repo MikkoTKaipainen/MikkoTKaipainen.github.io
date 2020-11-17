@@ -417,11 +417,6 @@ a:hover, a:active, a:focus {
 }
 
 
-
-#about .team-thumb:hover .heading {
-  top: -10px;
-}
-
 #about .team-thumb .description {
   font-size: 18px;
   width: 80%;
