@@ -429,10 +429,6 @@ a:hover, a:active, a:focus {
   transform: scale(0);
 }
 
-#about .team-thumb:hover p.description {
-  color: #ffffff;
-}
-
 
 
 /*---------------------------------------
