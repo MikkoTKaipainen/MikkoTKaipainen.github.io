@@ -441,13 +441,6 @@ a:hover, a:active, a:focus {
   transform: scale(0);
 }
 
-#about .team-thumb:hover .description {
-  opacity: 1;
-  -webkit-transform: scale(1);
-  -ms-transform: scale(1);
-  transform: scale(1);
-}
-
 #about .team-thumb:hover p.description {
   color: #ffffff;
 }
