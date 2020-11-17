@@ -378,14 +378,14 @@ a:hover, a:active, a:focus {
   padding: 100px;
   position: relative;
 }
-
 #about .about-img img {
   border: 8px solid #ffffff;
   position: absolute;
   left: -120px;
-  bottom: -125px;
+  bottom: -325px;
   padding: 12px;
 }
+
 
 #about .team-thumb {
   width: 100%;
